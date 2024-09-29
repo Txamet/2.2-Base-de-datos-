@@ -1,7 +1,7 @@
 # Descripción
 Este proyecto consiste en gestionar y filtrar una base de datos a través de queries.
 
-# Tecnologias usadas
+# Tecnologías usadas
 - MySQL
 
 # Requisitos
@@ -9,7 +9,7 @@ Este proyecto consiste en gestionar y filtrar una base de datos a través de que
 
 # Instalación
 1. Clona este repositorio
-2. Accede al directorio del poryecto: cd 2.2-Base-de-datos-
+2. Accede al directorio del proyecto: cd 2.2-Base-de-datos-Nivel-3
 
 # Ejecución
 
